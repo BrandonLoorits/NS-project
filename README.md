@@ -15,4 +15,6 @@ tively predicted potential airline routes, open-
 ing the way for more robust and sophisticated
 predictive modeling in airline planning       
 
-This project is created for NS course assignment. Authors are: Marek Kullerkupp, Tauno Tamm and Brandon Loorits
+This project is created for NS course assignment.       
+
+Authors are: Marek Kullerkupp, Tauno Tamm and Brandon Loorits
