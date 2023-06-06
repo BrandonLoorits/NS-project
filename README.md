@@ -19,7 +19,7 @@ This project is created for NS course assignment.
 
 Authors are: Marek Kullerkupp, Tauno Tamm and Brandon Loorits
 
-Quick Start Guide:
+**Quick Start Guide:**
 1. Open the notebook in your preferred Integrated Development Environment (IDE).
 2. Upload the data files to the environment (e.g., in Colab) or keep them in the same folder as the notebook file.
 3. Click 'Run all' to execute all the code chunks.
